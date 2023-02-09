@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EPX3usjcGv8qjkvMI0Qc+MOEx29gU95fyjKukMoqmdMJqkM5kQYl/c1MAluiubEh4POrzT1MMF1WQfVW5BdiZg==",
+  "dgSpecHash": "UfJyhm0It0LG7XcSjdtOu9JIXGwHLKUgYeCM+UHGkRYc1Iksbp0qcZjLIVmxzUJz6aSc9zMOPjzrZkZVPh8UVg==",
   "success": true,
-  "projectFilePath": "C:\\D\\Phd\\Actors\\PingPong\\Client\\Client.csproj",
+  "projectFilePath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\kpreisser.ui.taskdialog\\1.0.0\\kpreisser.ui.taskdialog.1.0.0.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.0\\microsoft.aspnetcore.connections.abstractions.7.0.0.nupkg.sha512",

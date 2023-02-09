@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D\\Phd\\Actors\\PingPong\\Client\\Client.csproj": {}
+    "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\D\\Phd\\Actors\\PingPong\\Client\\Client.csproj": {
+    "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D\\Phd\\Actors\\PingPong\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\D\\Phd\\Actors\\PingPong\\Client\\Client.csproj",
+        "projectPath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "C:\\D\\Phd\\Actors\\PingPong\\Client\\obj\\",
+        "outputPath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\Silo.csproj": {
-                "projectPath": "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\Silo.csproj"
+              "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\Silo.csproj": {
+                "projectPath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\Silo.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\Silo.csproj": {
+    "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\Silo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\Silo.csproj",
+        "projectUniqueName": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\Silo.csproj",
         "projectName": "Silo",
-        "projectPath": "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\Silo.csproj",
+        "projectPath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\Silo.csproj",
         "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "C:\\D\\Phd\\Actors\\PingPong\\Silo\\Silo\\obj\\",
+        "outputPath": "C:\\D\\Phd\\Actors\\Orleans\\PingPong\\Silo\\Silo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
